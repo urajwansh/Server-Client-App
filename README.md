@@ -1,1 +1,1 @@
-Python Server Client
+Python based Server Client Applications
